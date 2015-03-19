@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <string name="app_name">Amazing Shooter</string>
+   <string name="app_name">Cannon Game</string>
    <string name="results_format">
       Shots fired: %1$d\nTotal time: %2$.1f</string>
    <string name="reset_game">Reset Game</string>
